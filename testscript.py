@@ -15,6 +15,5 @@ def func (c):
 
 # I am faster than you and change it very fast :P hahahah ;)
 def func2 (e):
-	f = e/2
-	print(f)
+
 #Hey guys :)
