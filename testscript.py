@@ -1,3 +1,4 @@
+
 # TESTSCRIPT
 
 def func (c):
@@ -5,3 +6,6 @@ def func (c):
 	print(d)
 
 # I change your file
+# Add new comment
+
+print("ha ha ha ha")
